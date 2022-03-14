@@ -1,0 +1,2 @@
+# SoftmanagementSystem
+study for oop
